@@ -1,0 +1,15 @@
+.pari{
+    display: flex;
+    justify-content: space-around;
+}
+.img{
+    width: 380px;
+    height: 240px;
+    border-radius: 20px;
+}
+.net{
+    width: 251px;
+}
+.text{
+    width: 266px;
+}
